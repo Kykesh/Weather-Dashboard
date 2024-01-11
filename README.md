@@ -63,11 +63,11 @@ To make the most of the Weather Dashboard, follow these steps:
 
 ## Screenshots
 
-![Weather Dashboard Screenshot](/Assets/Work-Day-Scheduler.png)
+![Weather Dashboard Screenshot](/images/WDSS.png)
 
 ## Deployed Application
 
-Check out the deployed application here: [Weather Dashboard Live Site](https://kykesh.github.io/Work-Day-Scheduler/)
+Check out the deployed application here: [Weather Dashboard Live Site](https://kykesh.github.io/Weather-Dashboard/)
 
 ## License
 
@@ -79,7 +79,7 @@ Certain code segments were inspired by or directly sourced from:
 
 - Stack Overflow discussions.
 - Snippets from MDN Web Docs.
-
+WD
 ## External Resources
 
 This application makes use of the following resources:
